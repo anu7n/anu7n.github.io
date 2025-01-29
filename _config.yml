@@ -121,8 +121,8 @@ comments:
   giscus:
     repo: "anu7n/anu7n.github.io" # <gh-username>/<repo>
     repo_id: "R_kgDONu2Z1w"
-    category: "Q&A"
-    category_id: "DIC_kwDONu2Z184Cmb9D"
+    category: "General"
+    category_id: "DIC_kwDONu2Z184Cmb9C"
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
